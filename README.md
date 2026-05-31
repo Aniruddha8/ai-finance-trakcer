@@ -33,7 +33,7 @@ This application acts as a virtual financial consultant by leveraging data analy
 ├── main.py                       # Orchestrator script managing the core data pipeline
 ├── requirements.txt              # Project Python dependencies
 └── streamlit_app.py              # Main entry point for the Streamlit UI dashboard
-
+```
 
 # 🛠️ Getting Started
 
@@ -90,4 +90,3 @@ streamlit run streamlit_app.py
 ```
 
 Once running, open your browser and navigate to the local URL provided in the terminal output (typically `http://localhost:8501`).
-```
